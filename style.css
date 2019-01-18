@@ -42,10 +42,13 @@ input {
     border: none;
     color: white;
     margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 input:hover {
-    background-color: #666666;
+    background-color: #444444;
 }
 
 input:active {

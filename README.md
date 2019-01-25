@@ -1,3 +1,3 @@
 # 404-Page
 
-https://christopheschevers.github.io/Mijn-CV/
+https://christopheschevers.github.io/404-Page/

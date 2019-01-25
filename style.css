@@ -47,6 +47,10 @@ input {
     font-family: 'Courier New', Courier, monospace;
 }
 
+input:focus {
+    outline: 0;
+}
+
 input:hover {
     background-color: #444444;
 }
